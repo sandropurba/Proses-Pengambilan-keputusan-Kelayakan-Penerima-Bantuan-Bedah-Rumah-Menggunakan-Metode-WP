@@ -1,0 +1,45 @@
+D:\prjku_debora\prjku_debora\obj\Debug\ResolveAssemblyReference.cache
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Login.resources
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Resources.resources
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.vbproj.GenerateResource.Cache
+D:\prjku_debora\prjku_debora\bin\Debug\prjku_debora.exe
+D:\prjku_debora\prjku_debora\bin\Debug\prjku_debora.pdb
+D:\prjku_debora\prjku_debora\bin\Debug\prjku_debora.xml
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.exe
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.xml
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.pdb
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.MenuUtama.resources
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Penerima.resources
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Nilai_Bobot_Kriteria.resources
+D:\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Nilai_Kriteria.resources
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.exe
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.xml
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.pdb
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\bin\Debug\prjku_debora.exe
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\bin\Debug\prjku_debora.pdb
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\bin\Debug\prjku_debora.xml
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Login.resources
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.MenuUtama.resources
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Resources.resources
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Nilai_Bobot_Kriteria.resources
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Nilai_Kriteria.resources
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Penerima.resources
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Pengambilan_Keputusan.resources
+E:\Document\Skripsi\debora\prjku_debora\prjku_debora\obj\Debug\prjku_debora.vbproj.GenerateResource.Cache
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.exe
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.xml
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.pdb
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\bin\Debug\prjku_debora.exe
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\bin\Debug\prjku_debora.pdb
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\bin\Debug\prjku_debora.xml
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.laporan.resources
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Login.resources
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.MenuUtama.resources
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Resources.resources
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Nilai_Bobot_Kriteria.resources
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Nilai_Kriteria.resources
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Penerima.resources
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.Pengambilan_Keputusan.resources
+E:\Document\Skripsi\Skripsi (Debora)\prjku_debora\prjku_debora\obj\Debug\prjku_debora.vbproj.GenerateResource.Cache
